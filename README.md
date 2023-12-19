@@ -26,20 +26,3 @@
   <!-- Adicione mais links sociais conforme necessário -->
 </p>
 
-<!-- Adicione mais seções, projetos, ou informações conforme necessário -->
-
-<style>
-  /* ... (estilos anteriores) ... */
-
-  img[src*="python"],
-  img[src*="flask"],
-  img[src*="mysql"] {
-    border: 2px solid #fff;
-  }
-
-  img[src*="python"]:hover,
-  img[src*="flask"]:hover,
-  img[src*="mysql"]:hover {
-    border: 2px solid #3776AB;
-  }
-</style>
