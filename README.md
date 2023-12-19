@@ -4,7 +4,10 @@
 </div>
 
 <hr>
-<rect xmlns="http://www.w3.org/2000/svg" data-testid="card-bg" x="0.5" y="0.5" rx="4.5" height="99%" stroke="#e4e2e2" width="466" fill="#fffefe" stroke-opacity="1"/>
+[![Commits](https://img.shields.io/github/commit-activity/w/isgust/isgust?style=flat-square)](https://github.com/isgust)
+[![Releases](https://img.shields.io/github/v/release/isgust/isgust?style=flat-square)](https://github.com/isgust)
+[![Linguagens Mais Usadas](https://img.shields.io/github/languages/top/isgust/isgust?style=flat-square)](https://github.com/isgust)
+
 
 [![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=isgust&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <hr>
