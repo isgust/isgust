@@ -4,7 +4,7 @@
 </div>
 
 <hr>
-[![Estatísticas do GitHub de Gustavo Rocha](https://github-readme-stats.vercel.app/api?username=isgust&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Estatísticas do GitHub de Gustavo Rocha](https://github-readme-stats.vercel.app/api?username=isgust&count_private=true&show_icons=true&theme=radical)](https://github.com/isgust)
 
 [![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=isgust&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <hr>
