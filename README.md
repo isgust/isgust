@@ -1,5 +1,4 @@
 <div align="center">
-  <img src="https://via.placeholder.com/200" alt="Gustavo Rocha" width="200px" style="border-radius: 50%;">
   <h1>Gustavo Rocha</h1>
   <p>🚀 Desenvolvedor apaixonado por tecnologia.</p>
 </div>
