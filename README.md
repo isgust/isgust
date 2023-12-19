@@ -24,8 +24,8 @@
   <a href="https://www.linkedin.com/in/gustavosilvrocha/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="https://github.com/isgust" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub">
+  <a href="https://www.instagram.com/_gutsrocha/" target="_blank">
+    <img src="https://www.instagram.com/static/images/ico/favicon-192.png/68d99ba29cc8.png" alt="Instragram">
   </a>
   <!-- Adicione mais links sociais conforme necessário -->
 </p>
