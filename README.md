@@ -4,7 +4,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=isgust&layout=compact" alt="Linguagens Mais Usadas">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=isgust&layout=compact" alt="Linguagens Usadas">
 </div>
 
 <hr>
@@ -16,7 +16,7 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white" alt="Flask">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL">
-  <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white" alt="Java">
+  <img src="https://img.shields.io/badge/Java-FE7A16?style=flat&logo=java&logoColor=white" alt="Java">
   <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white" alt="Flutter">
   <!-- Adicione mais tecnologias conforme necessário -->
 </p>
