@@ -15,7 +15,7 @@
 <h2 align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; color: #333;">🛠️ Tecnologias e Ferramentas</h2>
 
 <!-- Divisão em linha única, centralizando todos os ícones -->
-<div style="display: inline-block; text-align: center;">
+<div align="center" style="display: inline-block; text-align: center;">
   <div>
     <img alt="gustavo-html5" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
     <p>HTML5</p>
