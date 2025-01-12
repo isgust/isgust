@@ -15,7 +15,7 @@
 <h2 align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; color: #333;">🛠️ Tecnologias e Ferramentas</h2>
 
 <!-- Divisão em linhas de 3 elementos -->
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center;">
+<div align="center">
   <!-- Linha 1 -->
   <div style="text-align: center; margin: 10px;">
     <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML5" style="width: 50px;">
