@@ -14,44 +14,40 @@
 
 <h2 align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; color: #333;">🛠️ Tecnologias e Ferramentas</h2>
 
-<!-- Divisão em linhas de 3 elementos -->
-<div align="center">
-  <!-- Linha 1 -->
-  <div style="text-align: center; margin: 10px;">
-    <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML5" style="width: 50px;">
-    <p style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; color: #555; font-size: 14px;">HTML5</p>
+<!-- Divisão em linha única, centralizando todos os ícones -->
+<div style="display: inline-block; text-align: center;">
+  <div>
+    <img alt="gustavo-html5" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+    <p>HTML5</p>
   </div>
-  <div style="text-align: center; margin: 10px;">
-    <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3" style="width: 50px;">
-    <p style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; color: #555; font-size: 14px;">CSS3</p>
+  <div>
+    <img alt="gustavo-css" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+    <p>CSS3</p>
   </div>
-  <div style="text-align: center; margin: 10px;">
-    <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" style="width: 50px;">
-    <p style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; color: #555; font-size: 14px;">Python</p>
+  <div>
+    <img alt="gustavo-python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+    <p>Python</p>
   </div>
-  
-  <!-- Linha 2 -->
-  <div style="text-align: center; margin: 10px;">
-    <img src="https://img.icons8.com/color/48/000000/flask.png" alt="Flask" style="width: 50px;">
-    <p style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; color: #555; font-size: 14px;">Flask</p>
+  <div>
+    <img alt="gustavo-flask" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original-wordmark.svg" />
+    <p>Flask</p>
   </div>
-  <div style="text-align: center; margin: 10px;">
-    <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL" style="width: 50px;">
-    <p style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; color: #555; font-size: 14px;">MySQL</p>
+  <div>
+    <img alt="gustavo-mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
+    <p>MySQL</p>
   </div>
-  <div style="text-align: center; margin: 10px;">
-    <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java" style="width: 50px;">
-    <p style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; color: #555; font-size: 14px;">Java</p>
+  <div>
+    <img alt="gustavo-java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
+    <p>Java</p>
   </div>
-
-  <!-- Linha 3 -->
-  <div style="text-align: center; margin: 10px;">
-    <img src="https://img.icons8.com/color/48/000000/flutter.png" alt="Flutter" style="width: 50px;">
-    <p style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; color: #555; font-size: 14px;">Flutter</p>
+  <div>
+    <img alt="gustavo-flutter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" />
+    <p>Flutter</p>
   </div>
 </div>
 
 <h2 align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; color: #333;">📫 Conecte-se comigo</h2>
+
 <p align="center">
   <a href="https://www.linkedin.com/in/gustavosilvrocha/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
